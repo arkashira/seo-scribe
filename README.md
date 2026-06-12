@@ -1,2 +1,13 @@
-# seo-scribe
-axentx product · A content management and optimization platform that helps SEO practitioners efficiently scale high-quality content creation across multiple sites.
+# SEO Scribe Dashboard
+
+Central dashboard for managing SEO-generated articles.
+
+## Features
+
+- View article metadata (title, description, keywords)
+- Filter articles by keyword or date
+- Sort articles by title or date
+
+## Usage
+
+Run tests with:
